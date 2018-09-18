@@ -1,0 +1,9 @@
+{
+  "name": "redux-async-actions",
+  "version": "0.2.0",
+  "description": "Writing async actions for redux that describe a todo app, but with nodejs and es2017 features instead",
+  "main": "src/index.mjs",
+  "repository": "https://github.com/periscope-media/redux-async-actions",
+  "author": "periscope-media <periscopemedianews@gmail.com>",
+  "license": "MIT"
+}
