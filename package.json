@@ -6,6 +6,9 @@
   "repository": "https://github.com/periscope-media/redux-async-actions",
   "author": "periscope-media <periscopemedianews@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --experimental-modules --watch src src/index.mjs"
+  },
   "dependencies": {
     "redux": "^4.0.0"
   }
