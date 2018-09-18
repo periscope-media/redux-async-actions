@@ -5,5 +5,8 @@
   "main": "src/index.mjs",
   "repository": "https://github.com/periscope-media/redux-async-actions",
   "author": "periscope-media <periscopemedianews@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
 }
